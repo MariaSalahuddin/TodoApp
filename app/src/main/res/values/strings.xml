@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo App</string>
+    <string name="delete_one_task">delete One Task</string>
+    <string name="add_new_task">Add New Task</string>
+    <string name="recycler_list">Recycler List</string>
+    <string name="send_an_email">Send an Email</string>
+    <string name="set_an_alarm">Set an alarm</string>
+</resources>
